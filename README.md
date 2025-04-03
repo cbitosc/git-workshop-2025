@@ -2,9 +2,9 @@
 <details open>
 <summary><h3>1. Add your details: </h3></summary>
 <ul>
-  <li> Name: </li>
-  <li> Roll Number: </li>
-  <li> Branch: </li>
+  <li> Suraj Muktawar: </li>
+  <li> 160124733339: </li>
+  <li> cse-5: </li>
 </ul>
 </details>
 <details>
