@@ -2,9 +2,9 @@
 <details open>
 <summary><h3>1. Add your details: </h3></summary>
 <ul>
-  <li> Name: </li>
-  <li> Roll Number: </li>
-  <li> Branch: </li>
+  <li> Name: K.VAISHNAV </li>
+  <li> Roll Number: 160124733247 </li>
+  <li> Branch:CSE </li>
 </ul>
 </details>
 <details>
@@ -14,3 +14,4 @@
   <li> Use any programming language of your choice. </li>
 </ul>
 </details>
+
