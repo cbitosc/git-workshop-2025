@@ -2,9 +2,9 @@
 <details open>
 <summary><h3>1. Add your details: </h3></summary>
 <ul>
-  <li> Name: </li>
-  <li> Roll Number: </li>
-  <li> Branch: </li>
+  <li> Name: R vyshnavi</li>
+  <li> Roll Number: 087</li>
+  <li> Branch:AIDS-2 </li>
 </ul>
 </details>
 <details>
