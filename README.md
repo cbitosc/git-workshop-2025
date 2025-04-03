@@ -2,9 +2,9 @@
 <details open>
 <summary><h3>1. Add your details: </h3></summary>
 <ul>
-  <li> Name: </indhu>
-  <li> Roll Number: </160124733211>
-  <li> Branch: </cse-4>
+  <li> Name: Bandi.indhu</li>
+  <li> Roll Number:160124733211 </li>
+  <li> Branch:CSE </li>
 </ul>
 </details>
 <details>
