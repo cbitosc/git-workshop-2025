@@ -2,9 +2,9 @@
 <details open>
 <summary><h3>1. Add your details: </h3></summary>
 <ul>
-  <li> Name: </li>
-  <li> Roll Number: </li>
-  <li> Branch: </li>
+  <li> Name: G.karthik reddy</li>
+  <li> Roll Number: 1601-24-771-110</li>
+  <li> Branch: ai&ds-2
 </ul>
 </details>
 <details>
