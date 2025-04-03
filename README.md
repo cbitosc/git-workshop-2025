@@ -2,9 +2,9 @@
 <details open>
 <summary><h3>1. Add your details: </h3></summary>
 <ul>
-  <li> Name: </li>
-  <li> Roll Number: </li>
-  <li> Branch: </li>
+  <li> Name: K.Yogeswar Reddy</li>
+  <li> Roll Number:1601-24-733-245 </li>
+  <li> Branch: CSE</li>
 </ul>
 </details>
 <details>
