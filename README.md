@@ -4,7 +4,7 @@
 <ul>
   <li> Name:R.Sai Harshith </li>
   <li> Roll Number:160124771126 </li>
-  <li> Branch:AI & DS </li>
+  <li> Branch:AI & DS-2 </li>
 </ul>
 </details>
 <details>
