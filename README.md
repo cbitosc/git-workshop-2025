@@ -2,9 +2,9 @@
 <details open>
 <summary><h3>1. Add your details: </h3></summary>
 <ul>
-  <li> Name: </li>
-  <li> Roll Number: </li>
-  <li> Branch: </li>
+  <li> Name: Mir Inayat</li>
+  <li> Roll Number: 160123733193</li>
+  <li> Branch: CSE 3 </li>
 </ul>
 </details>
 <details>
