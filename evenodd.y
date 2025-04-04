@@ -1,4 +1,6 @@
-def even(a):
-  return a % 2
+num = int(input("Enter Number : "))
 
-print(
+if(num % 2 == 0):
+  print("Even")
+else:
+  print("Odd")
