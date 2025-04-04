@@ -2,9 +2,9 @@
 <details open>
 <summary><h3>1. Add your details: </h3></summary>
 <ul>
-  <li> Name: </li>
-  <li> Roll Number: </li>
-  <li> Branch: </li>
+  <li> Name: Tejasree</li>
+  <li> Roll Number: 014</li>
+  <li> Branch: cse-iot</li>
 </ul>
 </details>
 <details>
