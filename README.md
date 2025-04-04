@@ -2,9 +2,9 @@
 <details open>
 <summary><h3>1. Add your details: </h3></summary>
 <ul>
-  <li> Name: </li>
-  <li> Roll Number: </li>
-  <li> Branch: </li>
+  <li> Name: Sameer Shaik</li>
+  <li> Roll Number: 160124749055</li>
+  <li> Branch: CIC</li>
 </ul>
 </details>
 <details>
