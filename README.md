@@ -2,9 +2,9 @@
 <details open>
 <summary><h3>1. Add your details: </h3></summary>
 <ul>
-  <li> Name:MADDI VISHAL </li>
-  <li> Roll Number:1601-24-749-047 </li>
-  <li> Branch:CIC </li>
+  <li> Name: MADDI VISHAL </li>
+  <li> Roll Number: 1601-24-749-047 </li>
+  <li> Branch: CIC </li>
 </ul>
 </details>
 <details>
