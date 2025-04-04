@@ -2,9 +2,9 @@
 <details open>
 <summary><h3>1. Add your details: </h3></summary>
 <ul>
-  <li> Name: </li>
-  <li> Roll Number: </li>
-  <li> Branch: </li>
+  <li> Name: </sujal>
+  <li> Roll Number: </160124737180>
+  <li> Branch: </it-03>
 </ul>
 </details>
 <details>
