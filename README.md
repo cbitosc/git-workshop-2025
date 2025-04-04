@@ -2,9 +2,9 @@
 <details open>
 <summary><h3>1. Add your details: </h3></summary>
 <ul>
-  <li> Name: </li>
-  <li> Roll Number: </li>
-  <li> Branch: </li>
+  <li> Name:sharon chelsea </li>
+  <li> Roll Number:160124748080 </li>
+  <li> Branch:csm-2 </li>
 </ul>
 </details>
 <details>
