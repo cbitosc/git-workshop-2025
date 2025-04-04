@@ -3,7 +3,7 @@
 <summary><h3>1. Add your details: </h3></summary>
 <ul>
   <li> Name: srunik </li>
-  <li> Roll Number: 160124749032 </li>
+  <li> Roll Number: 032 </li>
   <li> Branch: cic </li>
 </ul>
 </details>
