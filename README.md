@@ -2,9 +2,9 @@
 <details open>
 <summary><h3>1. Add your details: </h3></summary>
 <ul>
-  <li> Name: </li>
-  <li> Roll Number: </li>
-  <li> Branch: </li>
+  <li> Name:v.rohith kumar reddy</li>
+  <li> Roll Number:160124737065 </li>
+  <li> Branch:IT-01 </li>
 </ul>
 </details>
 <details>
