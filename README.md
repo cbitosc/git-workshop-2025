@@ -2,8 +2,8 @@
 <details open>
 <summary><h3>1. Add your details: </h3></summary>
 <ul>
-  <li> Name: </li>
-  <li> Roll Number: </li>
+  <li> Name:Rashmith </li>
+  <li> Roll Number:1601 24 737 057 </li>
   <li> Branch: </li>
 </ul>
 </details>
