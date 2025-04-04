@@ -2,9 +2,9 @@
 <details open>
 <summary><h3>1. Add your details: </h3></summary>
 <ul>
-  <li> Name: </li>
-  <li> Roll Number: </li>
-  <li> Branch: </li>
+  <li> Name: R.V.Sahith Reddy</li>
+  <li> Roll Number: 1601-24-748-128</li>
+  <li> Branch: CSM-2</li>
 </ul>
 </details>
 <details>
