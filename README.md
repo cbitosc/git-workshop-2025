@@ -2,9 +2,9 @@
 <details open>
 <summary><h3>1. Add your details: </h3></summary>
 <ul>
-  <li> Name: </li>
-  <li> Roll Number: </li>
-  <li> Branch: </li>
+  <li> Name: Sujal Prakash </li>
+  <li> Roll Number: 160124737058 </li>
+  <li> Branch: INF-1 </li>
 </ul>
 </details>
 <details>
