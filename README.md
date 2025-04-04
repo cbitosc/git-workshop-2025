@@ -2,9 +2,9 @@
 <details open>
 <summary><h3>1. Add your details: </h3></summary>
 <ul>
-  <li> Name: </li>
-  <li> Roll Number: </li>
-  <li> Branch: </li>
+  <li> Name: G.s.Mourya tej</li>
+  <li> Roll Number:1601-24-748-105 </li>
+  <li> Branch:CSM 2 </li>
 </ul>
 </details>
 <details>
